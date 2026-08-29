@@ -1,3 +1,7 @@
+# HLD
+<img width="710" height="860" alt="image" src="https://github.com/user-attachments/assets/7b136a69-0936-4bbe-85bf-118945a55f9b" />
+
+
 # Vertex AI Studio Frontend App with Node.js Backend
 
 This repository contains a frontend and a Node.js backend, designed to run together.
